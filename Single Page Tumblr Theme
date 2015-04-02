@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+  <title>Connor Jay</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("http://i.imgur.com/jA0OnuD.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <img src="/assets/anna.png">
+  <p>I'm a Fredericton based data journalist. I'm still figuring this whole programming thing out.</p>
+  </body>
