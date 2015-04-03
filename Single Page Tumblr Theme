@@ -1,5 +1,7 @@
+<DOCTYPE HTML!>
 <title>Connor Jay</title>
 <style>
+<link rel="stylesheet" href="../css/social-circles.min.css">
   body {
   text-align: center;
   background: url("http://i.imgur.com/jA0OnuD.jpg") no-repeat center center fixed;
@@ -14,7 +16,7 @@
   position: absolute;
   top: 480px;
   left: 25px;
-  right: 325px;
+  right: 575px;
   background-color: white;
   border-radius: 10px;
   padding: 5px;
@@ -33,4 +35,5 @@
   <div>
     <p>I'm a Fredericton based data journalist. I'm still figuring this whole programming thing out.</p>
   </div>
+  <a class="icon-twitter social-button borderless" href="http://twitter.com/connorrejay"></a>
 </body>
