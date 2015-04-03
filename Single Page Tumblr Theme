@@ -1,20 +1,36 @@
-<!DOCTYPE html>
-<head>
-  <title>Connor Jay</title>
-  <style>
-    body {
-      text-align: center;
-      background: url("http://i.imgur.com/jA0OnuD.jpg");
-      background-size: cover;
-      background-position: center;
-      color: white;
-      font-family: helvetica;
-    }
+<title>Connor Jay</title>
+<style>
+  body {
+  text-align: center;
+  background: url("http://i.imgur.com/jA0OnuD.jpg") no-repeat center center fixed;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: helvetica;
+  }
     p {
-      font-size: 18px;
+  font-size: 20px;
+  color: gray;
+  position: absolute;
+  top: 480px;
+  left: 25px;
+  right: 325px;
+  background-color: white;
+  border-radius: 10px;
+  padding: 5px;
+  background-color:rgba(255, 255, 255, 0.9);
     }
+    a {
+  top:480px;
+  left:25px;
+  right:325px;
+    }
+      </body>
+    </html>
   </style>
 </head>
 <body>
-  <p>I'm a Fredericton based data journalist. I'm still figuring this whole programming thing out.</p>
+  <div>
+    <p>I'm a Fredericton based data journalist. I'm still figuring this whole programming thing out.</p>
+  </div>
 </body>
